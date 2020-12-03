@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/form-validation-for-anuitex/static/css/main.b33d17c7.chunk.css",
+    "main.css": "/form-validation-for-anuitex/static/css/main.4a4137e4.chunk.css",
     "main.js": "/form-validation-for-anuitex/static/js/main.0ef20488.chunk.js",
     "main.js.map": "/form-validation-for-anuitex/static/js/main.0ef20488.chunk.js.map",
     "runtime-main.js": "/form-validation-for-anuitex/static/js/runtime-main.b6eae5b9.js",
@@ -12,14 +12,14 @@
     "static/js/3.45c3386d.chunk.js.map": "/form-validation-for-anuitex/static/js/3.45c3386d.chunk.js.map",
     "index.html": "/form-validation-for-anuitex/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/form-validation-for-anuitex/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.b33d17c7.chunk.css.map": "/form-validation-for-anuitex/static/css/main.b33d17c7.chunk.css.map",
+    "static/css/main.4a4137e4.chunk.css.map": "/form-validation-for-anuitex/static/css/main.4a4137e4.chunk.css.map",
     "static/js/2.e5a9a6aa.chunk.js.LICENSE.txt": "/form-validation-for-anuitex/static/js/2.e5a9a6aa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b6eae5b9.js",
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.e5a9a6aa.chunk.js",
-    "static/css/main.b33d17c7.chunk.css",
+    "static/css/main.4a4137e4.chunk.css",
     "static/js/main.0ef20488.chunk.js"
   ]
 }
